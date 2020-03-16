@@ -1,5 +1,7 @@
 # Dynamic Programming Algorithms
 <br /> 
+<br /> 
+
 __Assignment 1 description: Maximum Gold__
 
 Given a set of gold bars of various weights and a backpack that can hold at most W pounds, place as much gold as possible into the backpack. Constraints. 1≤W≤104. There are at most 103 gold bars, the weight of each gold bar is at most 105.
