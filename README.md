@@ -1,6 +1,4 @@
 # Dynamic Programming Algorithms
-<br /> 
-<br /> 
 
 __Assignment 1 Description: Maximum Gold__
 
