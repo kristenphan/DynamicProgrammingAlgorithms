@@ -2,12 +2,12 @@
 <br /> 
 <br /> 
 
-__Assignment 1 description: Maximum Gold__
+__Assignment 1 Description: Maximum Gold__
 
 Given a set of gold bars of various weights and a backpack that can hold at most W pounds, place as much gold as possible into the backpack. Constraints. 1≤W≤104. There are at most 103 gold bars, the weight of each gold bar is at most 105.
 <br /> 
 <br /> 
-__Assignment 2 description: Arithmetic Expression__
+__Assignment 2 Description: Arithmetic Expression__
 
 Parenthesize an arithmetic expression to maxi- mize its value. 
 Input. A string s=s0s1⋯s2n of length at most 29. Each symbol at an even position of s is a digit (that is, an integer from 0 to 9) while each symbol at an odd position is one of three operations from {+, -, *}
