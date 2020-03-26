@@ -1,5 +1,7 @@
 # Dynamic Programming Algorithms
-
+__Repository description:__ <br/> This repository stores the work as part of the Algorithm and Data Structures Specialization courses by UC San Diego. Course URL: https://www.coursera.org/specializations/data-structures-algorithms?. Code included in this repository is written by myself, Kristen Phan.
+<br /> 
+<br /> 
 __Assignment 1 Description: Maximum Gold__
 
 Given a set of gold bars of various weights and a backpack that can hold at most W pounds, place as much gold as possible into the backpack. Constraints. 1≤W≤104. There are at most 103 gold bars, the weight of each gold bar is at most 105.
